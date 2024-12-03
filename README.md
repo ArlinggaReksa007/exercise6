@@ -57,7 +57,7 @@ Repositori ini berisi implementasi dari *Exercise 6 – Demonstrate a Simple Way
 ---
 
 ## **Demonstrasi**
-![Exercise6](https://github.com/user-attachments/assets/40821d97-b057-4a23-a4c7-882c69fe3652)
+
 
 
 ---
@@ -71,6 +71,10 @@ Repositori ini berisi implementasi dari *Exercise 6 – Demonstrate a Simple Way
   - Waktu eksekusi di dalam blok kritis harus diminimalkan.
 - **Pentingnya Proteksi Sumber Daya**:
   - Proteksi yang tepat sangat penting untuk menghindari masalah dalam sistem multitasking.
+
+
+https://github.com/user-attachments/assets/6528c80a-63d4-44e0-991c-f15e8013392a
+
 
 ---
 
